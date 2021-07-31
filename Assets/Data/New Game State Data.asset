@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f05affd5773643b59293d1b2fa7f104, type: 3}
+  m_Name: New Game State Data
+  m_EditorClassIdentifier: 
+  _gameState: 0
+  _allMissions:
+  - {fileID: 11400000, guid: c246ef43e8e204ab2a49e3bf48b30bc3, type: 2}
+  _availableMissions:
+  - {fileID: 11400000, guid: c246ef43e8e204ab2a49e3bf48b30bc3, type: 2}
+  _activeMissions: []
+  _completedMissions: []

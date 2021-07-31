@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77773ff57fb1a47b3891382767195983, type: 3}
+  m_Name: New Mission Data
+  m_EditorClassIdentifier: 
+  _name: Some Kewel Mission
+  _description: A mission that you have and it's kewel
+  _active: 0
+  _complete: 0
+  _available: 1
+  _missionType: 0
